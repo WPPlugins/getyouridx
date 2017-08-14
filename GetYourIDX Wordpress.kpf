@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="bdd6e0c7-d651-4d58-9ec2-5d7e7f8933b1" kpf_version="4" name="GetYourIDX Wordpress.kpf">
+<preference-set idref="bdd6e0c7-d651-4d58-9ec2-5d7e7f8933b1">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+</project>
